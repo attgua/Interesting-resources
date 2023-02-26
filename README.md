@@ -1,6 +1,6 @@
 # Interesting-resources
 
-[netshoot](https://github.com/nicolaka/netshoot)
+[netshoot](https://github.com/nicolaka/netshoot) - a container with different network tools
 
 [devops exercises](https://github.com/bregman-arie/devops-exercises)
 
